@@ -1,6 +1,6 @@
 module github.com/sourcegraph/conc
 
-go 1.20
+go 1.25.9
 
 require github.com/stretchr/testify v1.8.1
 
